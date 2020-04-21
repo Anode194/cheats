@@ -1,0 +1,9 @@
+% network linux
+
+# curses network manager
+network manager
+$ nmtui
+
+# network manager cli
+network manager
+$ nmcli
