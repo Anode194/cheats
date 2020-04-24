@@ -1,11 +1,9 @@
 % network linux
 
 # curses network manager
-network manager
-$ nmtui
+nmtui
 
 # network manager cli
-network manager
 $ nmcli
 
 % tmux, terminal emulator
@@ -14,3 +12,8 @@ $ nmcli
 #
 # prefix %
 
+% macOS, brew, 
+
+# search for packages using fzf
+# 
+brew search --desc $(brew search | fzf)
