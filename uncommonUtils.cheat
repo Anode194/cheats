@@ -7,3 +7,10 @@ $ nmtui
 # network manager cli
 network manager
 $ nmcli
+
+% tmux, terminal emulator
+
+# create a verticle split
+#
+# prefix %
+
